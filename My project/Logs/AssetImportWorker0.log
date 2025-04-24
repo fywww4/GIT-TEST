@@ -273,3 +273,35 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 282.568335 seconds.
+  path: Assets/Script
+  artifactKey: Guid(590a3d8f7c80541418ac9da8d68e0d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script using Guid(590a3d8f7c80541418ac9da8d68e0d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e12ff7216bf8120e49fedd45647a8ce2') in 0.002461 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.982283 seconds.
+  path: Assets/Script/CameraController.cs
+  artifactKey: Guid(679d8b94a95ed434c9ebdea6dd54fccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/CameraController.cs using Guid(679d8b94a95ed434c9ebdea6dd54fccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71ba96b4543660ce4c8bfdfadbd4d4cd') in 0.000609 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.951143 seconds.
+  path: Assets/Script/PlayerController.cs
+  artifactKey: Guid(d432ddcc93bdf0b48a9e739a9f80997c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/PlayerController.cs using Guid(d432ddcc93bdf0b48a9e739a9f80997c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76042f9c254fa0c541790f9a062163b0') in 0.000551 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.432792 seconds.
+  path: Assets/Script/Ratator.cs
+  artifactKey: Guid(2859fbbac812ec34a9c8f1795280e004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Ratator.cs using Guid(2859fbbac812ec34a9c8f1795280e004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9848397b88834baa49fec52a97a469fe') in 0.000836 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
